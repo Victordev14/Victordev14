@@ -26,36 +26,62 @@
 
 <br/>
 
-<!-- ABOUT -->
 
-<h2>◈ &nbsp; ABOUT ME</h2>
+<!-- ABOUT ME — PREMIUM PROFILE SECTION -->
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<h2 align="center">ABOUT ME</h2>
 
-Hey! I'm **Victor Augusto**, a developer passionate about building useful applications and solving problems through code.
-
-My main interests are **Python development, automation, and software engineering**. I'm also exploring web development, machine learning, and containerization.
-
-- 🐍 Python and scripting
-- ⚙️ Automation and process optimization
-- 🌐 JavaScript and Flask
-- 🧠 Machine Learning
-- 🐳 Docker and development tools
-
-I believe in learning by building, improving through practice, and creating software that solves real problems.
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=420&lines=Hello%2C+World!+I'm+Victor+Augusto.;Turning+ideas+into+code."
+    alt="About me introduction"
+  />
+</div>
 
 <br/>
+
+<table width="100%" border="0" cellpadding="18" cellspacing="0">
+  <tr>
+    <td width="62%" valign="middle">
+
+### 👋 Hey, I'm Victor!
+
+I'm a developer passionate about **technology, problem-solving, and building useful software**.
+
+My main focus is Python development and automation, exploring ways to simplify repetitive tasks and transform ideas into practical solutions.
+
+<br/>
+
+**Currently interested in**
+
+- `Python` — scripting and application development
+- `Automation` — smarter and more efficient workflows
+- `Web Development` — JavaScript and Flask
+- `Machine Learning` — exploring intelligent systems
+- `Docker` — learning containerization
+
+    </td>
+    <td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-PROBLEM%20SOLVING-0891B2?style=for-the-badge" alt="Problem solving"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-6D28D9?style=for-the-badge" alt="Always learning"/>
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06B6D4,50:6366F1,100:8B5CF6&section=header" width="100%" alt="Section divider"/>
+
+</div>
 
 <!-- TECHNOLOGIES -->
 
