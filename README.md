@@ -1,131 +1,119 @@
 
-<!-- =====================================================
-     VICTOR AUGUSTO | INTERACTIVE-STYLE GITHUB README
-====================================================== -->
+<!--
+  VICTOR AUGUSTO | GITHUB PROFILE
+  Creative Developer Portfolio
+-->
 
 <div align="center">
 
-<a href="https://github.com/Victordev14">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=80&lines=VICTOR+AUGUSTO;PYTHON+DEVELOPER;BUILDING+WITH+CODE" alt="Victor Augusto animated title"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=38&duration=2500&pause=1200&color=7C83FD&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Victor+Augusto;Python+Developer;Automation+%26+Software" alt="Victor Augusto animated heading"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Automation+%7C+Web+Development+%7C+Machine+Learning;Turning+ideas+into+practical+solutions." alt="Developer subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=I+build+tools+that+solve+real+problems.;Code.+Experiment.+Improve." alt="Introduction"/>
 
 <br/><br/>
 
 <a href="https://github.com/Victordev14">
-  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=7C83FD" alt="GitHub profile"/>
 </a>
 <a href="https://github.com/Victordev14?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Projects"/>
+  <img src="https://img.shields.io/badge/My%20Work-Repositories-171923?style=for-the-badge&logo=git&logoColor=7C83FD" alt="Repositories"/>
 </a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C83FD,50:38BDF8,100:C084FC" alt="Gradient divider"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About me
 
-I'm **Victor Augusto**, a developer focused on Python, automation, and building practical software solutions.
+I'm **Victor Augusto**, a developer interested in building practical software and using technology to make processes more efficient.
 
-I enjoy transforming repetitive tasks into efficient workflows, developing applications, and exploring new technologies through hands-on projects.
+My main focus is Python and automation. I also explore web development, machine learning, databases, and modern development tools.
 
-- 🐍 Python development and scripting
-- ⚙️ Process automation
-- 🌐 Web development with JavaScript and Flask
-- 🧠 Exploring Machine Learning
-- 🐳 Learning Docker and containerization
+**What drives my work**
+- Turning repetitive tasks into automated workflows.
+- Building applications that solve practical problems.
+- Learning new technologies by experimenting and creating projects.
 
----
+<br/>
 
-## 💻 Languages
-
-<div align="center">
+## Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" alt="Python and JavaScript"/>
 
-<br/>
+<sub>Python · JavaScript</sub>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<br/><br/>
 
-</div>
-
-## 🧩 Frameworks & Machine Learning
-
-<div align="center">
+## Frameworks & machine learning
 
 <img src="https://skillicons.dev/icons?i=flask,tensorflow&theme=dark" alt="Flask and TensorFlow"/>
 
-<br/>
+<sub>Flask · TensorFlow</sub>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<br/><br/>
 
-</div>
+## Database & development tools
 
-## 🛠️ Tools & Database
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker&theme=dark" alt="MySQL, Git, GitHub and Docker"/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,mysql,docker&theme=dark" alt="Git, GitHub, MySQL and Docker"/>
+<sub>MySQL · Git · GitHub · Docker</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7C83FD,50:30364D,100:38BDF8" alt="Divider"/>
 
-</div>
+<br/>
 
----
+## Projects
 
-## 🚀 Projects
+I use my repositories to explore ideas, develop applications, and improve my technical skills.
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Victordev14?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20repositories-171923?style=for-the-badge&logo=github&logoColor=7C83FD" alt="Explore all repositories"/>
 </a>
 
 </div>
 
-Explore my repositories to see my applications, experiments, and development work.
+<br/>
 
----
-
-## 📊 GitHub Statistics
+## GitHub overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=38BDF8&text_color=C9D1D9" width="49%" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FD&text_color=C9D1D9&langs_count=6" width="49%" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victordev14&bg_color=0D1117&color=58A6FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victordev14&bg_color=0D1117&color=7C83FD&line=38BDF8&point=C084FC&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
----
+<br/>
 
-## 📬 Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C83FD,50:38BDF8,100:C084FC" alt="Gradient divider"/>
 
 <div align="center">
+
+<br/>
+
+**Thanks for stopping by.**
+
+<sub>Building today. Improving tomorrow.</sub>
+
+<br/><br/>
 
 <a href="https://github.com/Victordev14">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://komarev.com/ghpvc/?username=Victordev14&style=flat-square&color=7C83FD&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Victordev14&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:312E81,100:0D1117" width="100%" alt="Footer"/>
 
 </div>
