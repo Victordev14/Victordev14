@@ -1,160 +1,214 @@
-<!-- =================================================================== -->
-<!-- 🎨 README.md - Victor Augusto (@Victordev14) - VERSÃO PREMIUM       -->
-<!-- =================================================================== -->
 
+<!-- =========================================================
+     VICTOR AUGUSTO | GITHUB PROFILE README
+     DESIGN: DARK TECH / CYAN / VIOLET
+========================================================== -->
 
-<!-- ======================== BANNER ANIMADO TOPO ======================== -->
+<!-- HEADER -->
+<div align="center">
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24,30&height=200&section=header&text=Victor%20Augusto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20Lover%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" alt="header"/></a>
+<a href="https://github.com/Victordev14">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,45:111B35,100:312E81&text=VICTOR%20AUGUSTO&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%2F%20AUTOMATION%20%2F%20MACHINE%20LEARNING&descSize=13&descColor=67E8F9&descAlignY=58&animation=fadeIn" alt="Victor Augusto"/>
+</a>
 
-<!-- ======================== CABEÇALHO ======================== -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="40%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-      <br/><br/>
-      <h3>@Victordev14</h3>
-      <p><em>🐍 Python Developer</em></p>
-    </td>
-    <td width="60%" valign="middle">
-      <h1>👋 Olá Mundo, sou Victor Augusto!</h1>
-      <p>🚀 Desenvolvedor focado em <strong>Python</strong>, <strong>Automação</strong> e <strong>Machine Learning</strong>.</p>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=500&lines=Bem-vindo+ao+meu+universo+de+c%C3%B3digo!;Python+%7C+JavaScript+%7C+Flask+%7C+TensorFlow;Transformando+ideias+em+automa%C3%A7%C3%A3o..." alt="Typing SVG"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+solutions+with+Python.;Automating+repetitive+processes.;Learning%2C+building%2C+improving." alt="Developer introduction"/>
 
 <br/>
 
-<!-- ======================== FRASE NEON GIGANTE ======================== -->
+<a href="https://github.com/Victordev14">
+  <img src="https://img.shields.io/badge/GitHub-Victordev14-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-0891B2?style=for-the-badge&logo=python&logoColor=white" alt="Automation"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-6D28D9?style=for-the-badge&logo=codewars&logoColor=white" alt="Always learning"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2500&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=140&lines=BUILD.+BREAK.+LEARN.+REPEAT.;%E2%9A%A1+CODE+IS+POETRY+%E2%9A%A1;%F0%9F%90%8D+PYTHON+IS+THE+RHYME+%F0%9F%90%8D" alt="Frase Animada Neon"/>
-</p>
+<br/><br/>
+
+<a href="#about">ABOUT</a> &nbsp; ◆ &nbsp;
+<a href="#stack">TECH STACK</a> &nbsp; ◆ &nbsp;
+<a href="#projects">PROJECTS</a> &nbsp; ◆ &nbsp;
+<a href="#analytics">ANALYTICS</a> &nbsp; ◆ &nbsp;
+<a href="#contact">CONTACT</a>
+
+</div>
 
 <br/>
 
-<!-- ======================== SOBRE MIM COM MASCOTE ======================== -->
+<!-- ABOUT -->
+<a id="about"></a>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="75%" valign="middle">
-      
-## 🚀 Sobre Mim
+<h2>▸ 01. ABOUT ME</h2>
 
-Sou desenvolvedor apaixonado por **Python** e **automação**, sempre buscando transformar problemas complexos em soluções elegantes. Atualmente, mergulho de cabeça em **Machine Learning** com TensorFlow e estou expandindo meus conhecimentos em containerização com Docker. Acredito que código bem escrito é uma forma de arte, e que a melhor maneira de aprender é construindo. 🐍✨
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+### Hello, World! 👋
+
+I'm **Victor Augusto**, a developer interested in building practical software solutions through programming.
+
+My main focus is **Python development and automation**, with an interest in machine learning and web applications.
+
+- 🐍 Python development and scripting
+- ⚙️ Process automation
+- 🌐 JavaScript and Flask applications
+- 🧠 Machine Learning studies
+- 🐳 Exploring Docker and containerization
+
+I enjoy turning ideas into functional projects, solving problems, and improving my technical skills through hands-on development.
 
 </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Coding Animation"/>
-    </td>
-  </tr>
+<td width="35%" align="center" valign="middle">
+
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- ======================== STACK EM TABELA ALINHADA ======================== -->
-<!-- Usando <table> garante alinhamento horizontal em QUALQUER tela          -->
-<!-- (mobile, tablet, desktop) - não quebra mais em coluna                   -->
+<!-- TECH STACK -->
+<a id="stack"></a>
 
-## 🛠️ Minha Stack Principal
+<h2>▸ 02. TECHNOLOGY STACK</h2>
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <!-- Linha 1: Linguagens -->
-    <td align="center" width="120">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65"/>
-      </a>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65"/>
-      </a>
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65"/>
-      </a>
-      <br/><sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65"/>
-      </a>
-      <br/><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65"/>
-      </a>
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="65" height="65"/>
-      </a>
-      <br/><sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/>
-      </a>
-      <br/><sub><b>Docker</b></sub>
-    </td>
-  </tr>
+<p>Tools and technologies I work with or am currently exploring.</p>
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" alt="Python and JavaScript"/>
+
+### Frameworks & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=flask,tensorflow&theme=dark" alt="Flask and TensorFlow"/>
+
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql&theme=dark" alt="Git, GitHub, Docker and MySQL"/>
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+<a id="projects"></a>
+
+<h2>▸ 03. FEATURED PROJECTS</h2>
+
+<div align="center">
+
+<a href="https://github.com/Victordev14?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victordev14&repo=REPOSITORY_1&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="Featured project one"/>
+</a>
+<a href="https://github.com/Victordev14?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victordev14&repo=REPOSITORY_2&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="Featured project two"/>
+</a>
+
+</div>
+
+**Project ideas to highlight here:**
+
+- ⚙️ Automation tools that solve real problems.
+- 🐍 Python applications and utilities.
+- 🌐 Web applications and API integrations.
+
+> Replace `REPOSITORY_1` and `REPOSITORY_2` with the exact names of existing public repositories. Remove this note after configuring the cards.
+
+<div align="center">
+
+<a href="https://github.com/Victordev14?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore projects"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ANALYTICS -->
+<a id="analytics"></a>
+
+<h2>▸ 04. GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Victordev14&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victordev14&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+</div>
+
+<br/>
+
+<!-- DEVELOPER PRINCIPLES -->
+<h2>▸ 05. DEVELOPMENT PHILOSOPHY</h2>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚡ Automate
+
+Reduce repetitive work through practical solutions.
+
+</td>
+<td width="33%" align="center">
+
+### 🧩 Build
+
+Turn ideas into functional projects.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Improve
+
+Learn through experimentation and iteration.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- ======================== BADGES ======================== -->
+<!-- CONTACT -->
+<a id="contact"></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+<h2>▸ 06. LET'S CONNECT</h2>
 
-<br/>
+<div align="center">
 
-<!-- ======================== LINHA DIVISÓRIA ANIMADA ======================== -->
+Interested in development, automation, and technology?
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" alt="divisor"/>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/Victordev14">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://linkedin.com/in/SEU-PERFIL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:SEU-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<!-- ======================== CONTATO ======================== -->
-## 📫 Vamos nos Conectar?
+<br/><br/>
 
-<!-- ✏️ ATUALIZE os links abaixo com seus dados reais de LinkedIn e e-mail -->
+<img src="https://komarev.com/ghpvc/?username=Victordev14&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Victordev14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312E81,55:111B35,100:050816" alt="Footer"/>
 
-<!-- ======================== FOOTER ======================== -->
+<sub>Designed with code. Powered by curiosity.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24,30&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victordev14&label=Visualizações+do+Perfil&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
-</p>
+</div>
