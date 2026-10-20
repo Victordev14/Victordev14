@@ -1,142 +1,119 @@
 
-<!-- =====================================================
-     VICTOR AUGUSTO — PROFILE README
-     Editorial / Lime / Dark Studio
-====================================================== -->
+<!-- VICTOR AUGUSTO | EDITORIAL DEVELOPER PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:101510,50:1C291B,100:8ABF45&section=header&text=Victor%20Augusto&fontSize=56&fontColor=F5F7F2&fontAlignY=42&desc=DEVELOPER%20%20%E2%80%A2%20%20PROBLEM%20SOLVER%20%20%E2%80%A2%20%20BUILDER&descSize=12&descColor=D9F99D&descAlignY=65&animation=fadeIn" alt="Victor Augusto"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=13&pause=2000&color=8B5CF6&center=true&vCenter=true&width=480&lines=INDEPENDENTLY+BUILDING+WITH+CODE;SOFTWARE+%2F+AUTOMATION+%2F+EXPERIMENTS" alt="Developer identity"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=A3E635&center=true&vCenter=true&width=540&lines=Ideas+into+code.;Code+into+solutions.;Learning+by+building." alt="Personal tagline"/>
+# VICTOR AUGUSTO<span>.</span>
 
-<br/><br/>
+**I turn problems into software.**
 
-<img src="https://komarev.com/ghpvc/?username=Victordev14&style=flat-square&color=365314&label=PROFILE+VISITS" alt="Profile visits"/>
+[ GitHub Profile ](https://github.com/Victordev14) &nbsp; / &nbsp; [ Explore Repositories ](https://github.com/Victordev14?tab=repositories)
 
 </div>
 
-<br/>
+---
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="58%" valign="top">
 
-## The person behind the code.
+## A developer's notebook
 
-I'm **Victor Augusto** — a developer interested in creating practical software, automating workflows, and exploring new technologies.
+I enjoy understanding problems, exploring different approaches, and building tools that make work simpler.
 
-I enjoy understanding how things work, solving problems, and turning concepts into projects that can be used in the real world.
+My main playground is **Python**, especially automation and practical applications. I also explore web development, databases, and machine learning.
 
-**What I'm exploring**
-
-- Python development and automation
-- Web applications with JavaScript and Flask
-- Machine Learning
-- Docker and development environments
+I prefer learning by building: testing ideas, making mistakes, and improving the result until it works.
 
 </td>
-<td width="35%" valign="middle" align="center">
+<td width="42%" valign="top">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUILD-0F172A?style=for-the-badge&labelColor=365314&color=0F172A" alt="Build"/>
-<img src="https://img.shields.io/badge/LEARN-0F172A?style=for-the-badge&labelColor=4D7C0F&color=0F172A" alt="Learn"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=9CA3AF&icon_color=8B5CF6" alt="GitHub overview"/>
 
 </td>
 </tr>
 </table>
 
----
+## What I use to build
 
-## Tools of the trade.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,flask,tensorflow,mysql,docker,git,github&theme=dark" alt="Technology icons"/>
-
-</div>
+| Area | Technologies |
+|:--|:--|
+| **Programming** | Python · JavaScript |
+| **Web** | Flask |
+| **Data & ML** | MySQL · TensorFlow |
+| **Workflow** | Git · GitHub · Docker |
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### `01` — Development
+<img src="https://skillicons.dev/icons?i=python,javascript,flask,tensorflow,mysql,git,docker&theme=dark" alt="Technology icons"/>
 
-Python, JavaScript and Flask for building scripts, applications, and web solutions.
-
-</td>
-<td width="50%" valign="top">
-
-### `02` — Tools
-
-Git, GitHub, MySQL and Docker for version control, data, and development workflows.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Selected work
-
-<sub>A collection of projects, experiments, and practical solutions.</sub>
+## Work in progress
 
 <div align="center">
 
 <a href="https://github.com/Victordev14?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-365314?style=for-the-badge&logo=github&logoColor=D9F99D" alt="Explore repositories"/>
-</a>
-
-</div>
-
-<br/>
-
-> **Currently building:** this section is ready for your strongest real projects. Add repository cards here once you choose which projects best represent your work.
-
----
-
-## GitHub, in numbers.
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&hide_border=true&bg_color=101510&title_color=A3E635&icon_color=84CC16&text_color=D1D5DB" alt="GitHub statistics"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&hide_border=true&bg_color=101510&title_color=A3E635&text_color=D1D5DB" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victordev14&bg_color=101510&color=A3E635&line=84CC16&point=F5F7F2&area=true&hide_border=true" alt="Contribution activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Have something interesting in mind?
-
-I'm always interested in connecting with people who enjoy building things with technology.
-
-<br/>
-
-<a href="https://github.com/Victordev14">
-  <img src="https://img.shields.io/badge/GITHUB-101510?style=for-the-badge&logo=github&logoColor=A3E635" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_PROFILE">
-  <img src="https://img.shields.io/badge/LINKEDIN-101510?style=for-the-badge&logo=linkedin&logoColor=A3E635" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/01%20%2F%20AUTOMATION-Explore%20repositories-8B5CF6?style=for-the-badge&labelColor=111111" alt="Automation projects"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8ABF45,50:1C291B,100:101510" alt="Footer"/>
+<a href="https://github.com/Victordev14?tab=repositories">
+  <img src="https://img.shields.io/badge/02%20%2F%20APPLICATIONS-Explore%20repositories-64748B?style=for-the-badge&labelColor=111111" alt="Application projects"/>
+</a>
 
-<sub>Less noise. More building.</sub>
+<br/><br/>
+
+<a href="https://github.com/Victordev14?tab=repositories">
+  <img src="https://img.shields.io/badge/03%20%2F%20EXPERIMENTS-Explore%20repositories-0D9488?style=for-the-badge&labelColor=111111" alt="Experiments"/>
+</a>
+
+</div>
+
+<sub>These are project categories, not claims about specific completed projects. Replace them with links to actual repositories when ready.</sub>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### The technical side
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" alt="Languages"/>
+
+</td>
+<td width="50%" valign="top">
+
+### The consistency side
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victordev14&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280" alt="Contribution streak"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**GOOD SOFTWARE STARTS WITH GOOD QUESTIONS.**
+
+<br/>
+
+[GitHub](https://github.com/Victordev14) &nbsp; · &nbsp; [Repositories](https://github.com/Victordev14?tab=repositories)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Victordev14&style=flat-square&color=8B5CF6&label=READERS" alt="Profile visits"/>
 
 </div>
