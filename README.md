@@ -1,119 +1,32 @@
+<!-- =================================================================== --> <!-- README.md - Victor Augusto (@Victordev14) --> <!-- =================================================================== --> <!-- ======================== BANNER ======================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20,24,30&height=260&section=header&text=Victor%20Augusto&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Machine%20Learning&descSize=18&descAlignY=58" alt="Banner"/> </p> <!-- ======================== TYPING ======================== --> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Victor!;%F0%9F%90%8D+Python+%7C+JavaScript+%7C+Flask+%7C+TensorFlow;%E2%9A%99%EF%B8%8F+Transformando+ideias+em+automa%C3%A7%C3%A3o;%F0%9F%8E%93+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Buscando+o+1%C2%BA+est%C3%A1gio+em+TI" alt="Typing SVG"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Victordev14&label=Visualiza%C3%A7%C3%B5es&color=00f7ff&style=for-the-badge" alt="Views"/> <img src="https://img.shields.io/github/followers/Victordev14?style=for-the-badge&logo=github&color=0D1117&labelColor=00f7ff" alt="Seguidores"/> <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-00f7ff?style=for-the-badge&labelColor=0D1117" alt="Status"/> </p> <!-- ======================== SOBRE MIM ======================== --> <table width="100%" border="0"> <tr> <td width="68%" valign="middle">
+🚀 Sobre mim
 
-<!--
-  VICTOR AUGUSTO | GITHUB PROFILE
-  Creative Developer Portfolio
--->
+Sou estudante de Ciência da Computação e desenvolvedor apaixonado por Python e automação. Gosto de pegar problemas bagunçados e transformá-los em soluções simples e elegantes. Hoje estou mergulhando em Machine Learning com TensorFlow e aprendendo Docker para entender como levar projetos do meu computador para o mundo real.
 
-<div align="center">
+Acredito que a melhor forma de aprender é construindo, errando e construindo de novo. 🐍✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=38&duration=2500&pause=1200&color=7C83FD&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Victor+Augusto;Python+Developer;Automation+%26+Software" alt="Victor Augusto animated heading"/>
+Neste momento, estou em busca da minha primeira oportunidade de estágio em TI. Se você tem uma vaga ou só quer trocar uma ideia sobre código, fique à vontade para chamar!
 
-<br/>
+</td> <td width="32%" align="center" valign="middle"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/> </td> </tr> </table> <!-- ======================== SOBRE MIM EM TOPICOS ======================== --> <table align="center" width="100%" border="0"> <tr> <td align="center">🔭 <b>Estudando</b><br/>Machine Learning e Docker</td> <td align="center">🛠️ <b>Construindo</b><br/>Automações e aplicações web</td> <td align="center">🎯 <b>Objetivo</b><br/>Primeiro estágio em TI</td> <td align="center">💬 <b>Pergunte-me sobre</b><br/>Python, Flask e front-end</td> </tr> </table> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" alt="divisor"/> <!-- ======================== STACK ======================== -->
+🛠️ Minha stack
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,tensorflow,git,github,mysql,docker&theme=dark&perline=10" alt="Stack"/> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p> <!-- ======================== ESTATISTICAS ======================== -->
+📊 Estatísticas do GitHub
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&include_all_commits=true" alt="Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Linguagens"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Victordev14&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="Streak"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victordev14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Grafico de atividade"/> </p> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" alt="divisor"/> <!-- ======================== PROJETOS ======================== -->
+📌 Projetos em destaque
+<!-- ✏️ Troque "NOME-DO-REPOSITORIO" pelos nomes dos seus repositórios reais --> <p align="center"> <a href="https://github.com/Victordev14/NOME-DO-REPOSITORIO-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victordev14&repo=NOME-DO-REPOSITORIO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Projeto 1"/> </a> <a href="https://github.com/Victordev14/NOME-DO-REPOSITORIO-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victordev14&repo=NOME-DO-REPOSITORIO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Projeto 2"/> </a> </p> <p align="center"> <a href="https://github.com/Victordev14/NOME-DO-REPOSITORIO-3"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victordev14&repo=NOME-DO-REPOSITORIO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Projeto 3"/> </a> <a href="https://github.com/Victordev14/NOME-DO-REPOSITORIO-4"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victordev14&repo=NOME-DO-REPOSITORIO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Projeto 4"/> </a> </p> <!-- ======================== FORMACAO ======================== -->
+🎓 Formação e certificações
+<table align="center" width="100%" border="0"> <tr> <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=I+build+tools+that+solve+real+problems.;Code.+Experiment.+Improve." alt="Introduction"/>
+Graduação
 
-<br/><br/>
+🎓 Ciência da Computação, UNICID
+</td> <td width="50%" valign="top">
 
-<a href="https://github.com/Victordev14">
-  <img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=7C83FD" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/Victordev14?tab=repositories">
-  <img src="https://img.shields.io/badge/My%20Work-Repositories-171923?style=for-the-badge&logo=git&logoColor=7C83FD" alt="Repositories"/>
-</a>
+Certificações
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C83FD,50:38BDF8,100:C084FC" alt="Gradient divider"/>
-
-</div>
-
-<br/>
-
-## About me
-
-I'm **Victor Augusto**, a developer interested in building practical software and using technology to make processes more efficient.
-
-My main focus is Python and automation. I also explore web development, machine learning, databases, and modern development tools.
-
-**What drives my work**
-- Turning repetitive tasks into automated workflows.
-- Building applications that solve practical problems.
-- Learning new technologies by experimenting and creating projects.
-
-<br/>
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" alt="Python and JavaScript"/>
-
-<sub>Python · JavaScript</sub>
-
-<br/><br/>
-
-## Frameworks & machine learning
-
-<img src="https://skillicons.dev/icons?i=flask,tensorflow&theme=dark" alt="Flask and TensorFlow"/>
-
-<sub>Flask · TensorFlow</sub>
-
-<br/><br/>
-
-## Database & development tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,docker&theme=dark" alt="MySQL, Git, GitHub and Docker"/>
-
-<sub>MySQL · Git · GitHub · Docker</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:7C83FD,50:30364D,100:38BDF8" alt="Divider"/>
-
-<br/>
-
-## Projects
-
-I use my repositories to explore ideas, develop applications, and improve my technical skills.
-
-<div align="left">
-
-<a href="https://github.com/Victordev14?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20repositories-171923?style=for-the-badge&logo=github&logoColor=7C83FD" alt="Explore all repositories"/>
-</a>
-
-</div>
-
-<br/>
-
-## GitHub overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Victordev14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=38BDF8&text_color=C9D1D9" width="49%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordev14&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FD&text_color=C9D1D9&langs_count=6" width="49%" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victordev14&bg_color=0D1117&color=7C83FD&line=38BDF8&point=C084FC&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C83FD,50:38BDF8,100:C084FC" alt="Gradient divider"/>
-
-<div align="center">
-
-<br/>
-
-**Thanks for stopping by.**
-
-<sub>Building today. Improving tomorrow.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/Victordev14">
-  <img src="https://komarev.com/ghpvc/?username=Victordev14&style=flat-square&color=7C83FD&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
-</div>
+📜 Google / Coursera
+📜 Alura
+📜 EBAC
+</td> </tr> </table> <!-- ======================== CITACAO ======================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=BUILD.+BREAK.+LEARN.+REPEAT.;%E2%9A%A1+CODE+IS+POETRY+%E2%9A%A1" alt="Frase animada"/> </p> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" alt="divisor"/> <!-- ======================== CONTATO ======================== -->
+📫 Vamos nos conectar?
+<!-- ✏️ ATUALIZE os links abaixo com seu LinkedIn e e-mail reais --> <p align="center"> <a href="https://linkedin.com/in/seu-perfil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:seu-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/Victordev14" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p> <!-- ======================== FOOTER ======================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24,30&height=140&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/> </p>
